@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://162.14.100.213/unc0ver.ipa</string>
+                    <string>http://162.14.100.213/unc0ver1.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
 				<string>science.xnu.undecimus</string>
                 <key>bundle-version</key>
-                <string>6.0</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
