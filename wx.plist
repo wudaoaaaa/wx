@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://162.14.100.213/wx.ipa</string>
+                    <string>http://162.14.100.213/unc0ver.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>science.xnu.undecimus.4Y3PH77T47.4MUPA2KVTV</string>
+				<string>science.xnu.undecimus.4MUPA2KVTV</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
