@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://162.14.100.213/unc0ver1.ipa</string>
+                    <string>http://162.14.100.213/unc0ver.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>science.xnu.undecimus.4MUPA2KVTV</string>
+				<string>com.tencent.smobo1</string>
                 <key>bundle-version</key>
-                <string>8.0.2</string>
+                <string>3.81.10601</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>unc0ver</string>
+                <string>王者荣耀</string>
             </dict>
         </dict>
     </array>
