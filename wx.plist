@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>com.tencent.smoba</string>
+				<string>com.zl.SuperWingy</string>
                 <key>bundle-version</key>
-                <string>3.81.10601</string>
+                <string>1.6.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>王者荣耀</string>
+                <string>端口代理</string>
             </dict>
         </dict>
     </array>
