@@ -17,9 +17,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>com.zl.SuperWingy</string>
+				<string>com.tencent.smoba</string>
                 <key>bundle-version</key>
-                <string>1.6.1</string>
+                <string>3.81.10601</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
