@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://162.14.100.213:90/wzry.ipa</string>
+                    <string>http://162.14.100.213:91/wzry.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>com.zl.SuperWingy</string>
+				<string>com.tencent.smoba</string>
                 <key>bundle-version</key>
-                <string>1.6.1</string>
+                <string>3.81.10601</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>端口代理</string>
+                <string>黑桃A</string>
             </dict>
         </dict>
     </array>
